@@ -27,7 +27,7 @@ This game is heavily inspired by games like Tactics Ogre and Final Fantasy Tacti
 <img width="320" alt="Screenshot 2024-11-14 at 10 28 07 PM" src="https://github.com/user-attachments/assets/a4f24577-1b39-4b03-83ca-6aa2755ca017">
 <img width="320" alt="Screenshot 2024-11-14 at 10 17 13 PM" src="https://github.com/user-attachments/assets/a7d98623-fad1-4564-8df2-be1f04c69188">
 <img width="320" alt="Screenshot 2024-11-14 at 10 18 06 PM" src="https://github.com/user-attachments/assets/c6ec2e1a-5424-406f-9e36-2c7fd706de1f">
-<img width="320" alt="Screenshot 2024-11-14 at 10 19 06 PM" src="https://github.com/user-attachments/assets/20e0297d-dd0f-4435-b18a-677051cf523e">
+<img width="320" alt="Screenshot 2024-11-14 at 11 00 28 PM" src="https://github.com/user-attachments/assets/f4491915-6497-44d7-abc2-1d3d7c5cb7bf">
 
 
 ### Devlogs
