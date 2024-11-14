@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - I'm currently working full-time as a Senior Software Engineer
 - I'm also making a tactics role-playing game with Godot using C#, and if you're interested, I upload devlogs on my youtube channel https://www.youtube.com/@jethrocabaluna
 
+## Tactics RPG
+This game is heavily inspired by games like Tactics Ogre and Final Fantasy Tactics.
 ### Early screenshots
 <img width="320" alt="Screenshot 2024-11-14 at 10 22 14 PM" src="https://github.com/user-attachments/assets/b2e5d835-ed80-492b-818b-f59a8419de8f">
 <img width="320" alt="Screenshot 2024-11-14 at 10 27 18 PM" src="https://github.com/user-attachments/assets/3a58d60d-11e1-4a66-a97c-2845246e0621">
